@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=1&pause=1000&color=645248&vCenter=true&repeat=false&width=1090&height=45&lines=Solar-Powered+Schools+in+Conflicted+Zones)](https://git.io/typing-svg)
 
 
-# [M0 : Project Overview]()  
+## [M0 : Project Overview]()  
   
 In conflict zones, the collapse of education and energy systems leaves millions of children without safe spaces to learn. [UNESCO, 2023](https://www.unesco.org/en/education/emergencies).  
 This project uses global data on schooling and electricity access [UNICEF, 2022](https://data.unicef.org/topic/education/education-in-emergencies/) [IEA, 2022](https://www.iea.org/reports/energy-access-outlook-2022) to propose **modular, solar-powered learning hubs** that keep education alive even in times of crisis.  
@@ -52,3 +52,4 @@ Education is a human right that should not be suspended by crisis [UNICEF, 2023]
 This project demonstrates how **data-driven design** can create **resilient, solar-powered spaces** that protect children, sustain learning, and support communities even in conflict zones [UNESCO, 2023](https://www.unesco.org/en/education/emergencies).  
 
 </details>
+
