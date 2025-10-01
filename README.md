@@ -11,45 +11,41 @@
 
 ## [M0 : Project Overview]()  
   
-In conflict zones, the collapse of education and energy systems leaves millions of children without safe spaces to learn. [UNESCO, 2023](https://www.unesco.org/en/education/emergencies).  
+In conflict zones, the collapse of education and energy systems leaves millions of children without safe spaces to learn. [GCPEA, Education under Attack 2024](https://tracedataportal.org/data/attacks-on-education-dataset/)
 This project uses global data on schooling and electricity access [UNICEF, 2022](https://data.unicef.org/topic/education/education-in-emergencies/) [IEA, 2022](https://www.iea.org/reports/energy-access-outlook-2022) to propose **modular, solar-powered learning hubs** that keep education alive even in times of crisis.  
 
 
 <details>
-<summary>The Problem</summary>
+  <summary><b>The Problem </b></summary>
 
-- Schools in war-torn areas are often converted into emergency shelters, disrupting education [UNHCR, 2022](https://www.unhcr.org/education.html).  
-- Overcrowding worsens as classrooms are repurposed for survival needs [UNICEF, 2023](https://www.unicef.org/education/emergencies).  
-- A lack of reliable electricity leaves schools unsafe and unusable after sunset [IEA, 2022](https://www.iea.org/reports/energy-access-outlook-2022).  
-
-</details>
-
-<details>
-<summary> The Idea</summary>
-
-By combining **data science and architectural design**, this project proposes **solar-powered, dual-use schools** that can:  
-- Provide safe, lit shelter at night [UNESCO, 2023](https://www.unesco.org/en/education/emergencies)  
-- Function as classrooms during the day [UNICEF, 2022](https://data.unicef.org/topic/education/education-in-emergencies/)  
-- Use solar energy for lighting, device charging, and essential power needs [IRENA, 2023](https://www.irena.org/Energy-Transition/Technology/Solar-PV).  
+- Schools in war-torn areas are often converted into emergency shelters, disrupting education [GCPEA, Education under Attack 2024](https://protectingeducation.org/publication/education-under-attack-2024/)
+- Overcrowding worsens as classrooms are repurposed for survival needs, particularly documented in high-density crisis zones [UNRWA, Situation Reports (2023-2024)](https://www.unrwa.org/test-table)
+- A lack of reliable electricity, symptomatic of collapsing infrastructure and low electrification rates, leaves schools unsafe and unusable after sunset.[ World Bank Group, Accelerating Sub-Saharan Africa Energy Access, 2022](https://www.worldbank.org/en/news/press-release/2022/11/09/world-bank-group-announces-major-initiative-to-electrify-sub-saharan-africa-with-distributed-renewable-energy)
 
 </details>
 
 
 <details>
-<summary>The Approach</summary>
+  <summary><b>The Idea</b></summary>
 
-1. **Data Storytelling** — visualize UN/NGO data on school closures, displacement, and electricity scarcity [UNHCR, 2022](https://www.unhcr.org/education.html).  
-2. **Analysis** — assess solar energy feasibility in regions such as Sudan, Gaza, and Chad [World Bank, 2022](https://datacatalog.worldbank.org/).  
-3. **Design** — create adaptable architectural prototypes for solar-enabled learning shelters [Architectural Review, 2022](https://www.architectural-review.com/).  
-4. **Visualization** — integrate data maps, charts, and architectural diagrams into an interactive narrative [MIT Civic Data Design Lab, 2021](https://civicdatadesignlab.mit.edu/).  
+By combining **data science and architectural design**, this project explores how **solar-powered, dual-use schools** can:  
+- Function as safe, lit shelters at night [Sphere Handbook, 2018](https://www.ndsu.edu/sites/default/files/fileadmin/emgt/The_Sphere_Project_Handbook_2011.pdf)  
+- Operate as classrooms during the day [INEE, 2024](https://inee.org/minimum-standards)  
+- Harness solar energy for lighting, charging, and essential power needs [IFC, Renewable Energy in Gaza](https://unfccc.int/climate-action/un-global-climate-action-awards/financing-for-climate-friendly-investment/self-reliance-solar)  
 
-</details>
+Through **spatial design simulations** and **geospatial/electrification data analysis**, the project develops prototypes adaptable to different conflict contexts.  
+
+</details>  
 
 <details>
-<summary>Why It Matters</summary>
+  <summary><b>Why It Matters</b></summary>
 
-Education is a human right that should not be suspended by crisis [UNICEF, 2023](https://www.unicef.org/education).  
-This project demonstrates how **data-driven design** can create **resilient, solar-powered spaces** that protect children, sustain learning, and support communities even in conflict zones [UNESCO, 2023](https://www.unesco.org/en/education/emergencies).  
-
+Education is a fundamental right that should not collapse under crisis [UNICEF, School not in session for millions of children around the world.](https://www.unicef.org/stories/school-session-millions-children-around-world)
+This project shows how **data-informed architecture** can deliver **resilient, solar-powered spaces** that:  
+- Safeguard children and communities,  
+- Sustain learning during disruption,  
+- And demonstrate the role of **interdisciplinary problem-solving** at the nexus of **data science, energy, and design** 
 </details>
+</details>
+
 
