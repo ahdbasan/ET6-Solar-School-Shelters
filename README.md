@@ -10,9 +10,10 @@
 
 
 ## [M0 : Project Overview]()  
-  
-In conflict zones, the collapse of education and energy systems leaves millions of children without safe spaces to learn.  
-This project unites data-driven insights with resilient design strategies, integrating global education and electrification datasets to create modular, solar-powered learning hubs that *keep education alive in times of crisis.*
+
+The convergence of conflict and infrastructure collapse has created a global crisis, leaving millions of children not only out of school but completely **without safe, lit spaces to shelter or learn.** This systemic failure is driven by the collapse of both education and energy systems.
+
+This project offers an interdisciplinary solution: it integrates global education and electrification datasets to power the design of modular, solar-powered learning hubs. These hubs are fundamentally designed as transitional infrastructure, ensuring the stabilization of community life and education during the crucial post-conflict recovery phase.
 
 ### The Problem
 
@@ -43,6 +44,7 @@ This project shows how **data-informed architecture** can deliver **resilient, s
 - And demonstrate the role of **interdisciplinary problem-solving** at the nexus of **data science, energy, and design** 
 </details>
 </details>
+
 
 
 
