@@ -11,18 +11,14 @@
 
 ## [M0 : Project Overview]()  
   
-In conflict zones, the collapse of education and energy systems leaves millions of children without safe spaces to learn. [GCPEA, Education under Attack 2024](https://tracedataportal.org/data/attacks-on-education-dataset/)
-This project uses global data on schooling and electricity access [UNICEF, 2022](https://data.unicef.org/topic/education/education-in-emergencies/) [IEA, 2022](https://www.iea.org/reports/energy-access-outlook-2022) to propose **modular, solar-powered learning hubs** that keep education alive even in times of crisis.  
+In conflict zones, the collapse of education and energy systems leaves millions of children without safe spaces to learn.  
+This project unites data-driven insights with resilient design strategies, integrating global education and electrification datasets to create modular, solar-powered learning hubs that *keep education alive in times of crisis.*
 
-
-<details>
-  <summary><b>The Problem </b></summary>
+### The Problem
 
 - Schools in war-torn areas are often converted into emergency shelters, disrupting education [GCPEA, Education under Attack 2024](https://protectingeducation.org/publication/education-under-attack-2024/)
 - Overcrowding worsens as classrooms are repurposed for survival needs, particularly documented in high-density crisis zones [UNRWA, Situation Reports (2023-2024)](https://www.unrwa.org/test-table)
 - A lack of reliable electricity, symptomatic of collapsing infrastructure and low electrification rates, leaves schools unsafe and unusable after sunset.[ World Bank Group, Accelerating Sub-Saharan Africa Energy Access, 2022](https://www.worldbank.org/en/news/press-release/2022/11/09/world-bank-group-announces-major-initiative-to-electrify-sub-saharan-africa-with-distributed-renewable-energy)
-
-</details>
 
 
 <details>
@@ -47,5 +43,6 @@ This project shows how **data-informed architecture** can deliver **resilient, s
 - And demonstrate the role of **interdisciplinary problem-solving** at the nexus of **data science, energy, and design** 
 </details>
 </details>
+
 
 
