@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=1&pause=1000&color=645248&vCenter=true&repeat=false&width=1090&height=45&lines=Solar-Powered+Schools+in+Conflicted+Zones)](https://git.io/typing-svg)
 
 
-## [M0 : Project Overview]()  
+## M0 : Project Overview
 
 The convergence of conflict and infrastructure collapse has created a global crisis, leaving millions of children not only out of school but completely **without safe, lit spaces to shelter or learn.** This systemic failure is driven by the collapse of both education and energy systems.
 
@@ -44,6 +44,7 @@ This project shows how **data-informed architecture** can deliver **resilient, s
 - And demonstrate the role of **interdisciplinary problem-solving** at the nexus of **data science, energy, and design** 
 </details>
 </details>
+
 
 
 
