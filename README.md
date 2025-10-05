@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD013 MD031 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
 
 
-<!-- markdownlint-disable MD031 MD033 MD004 MD001 MDO13 MD001 MD009 MD013 MD045 MD001 -->
+<!-- markdownlint-disable MD031 MD033 MD004 MD001 MDO13 MD001 MD022 MD009 MD013 MD045 MD001 -->
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=60&duration=5015&pause=1000&color=1CABE2&vCenter=true&repeat=false&width=1250&height=58&lines=Solar+Powered+Schools+in+Conflict+Zones)](https://git.io/typing-svg)
@@ -42,6 +42,7 @@ This project shows how **data-informed architecture** can deliver **resilient, s
 - And demonstrate the role of **interdisciplinary problem-solving** at the nexus of **data science, energy, and design** 
 </details>
 </details>
+
 
 
 
