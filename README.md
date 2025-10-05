@@ -8,6 +8,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=2000&pause=1000&color=91644A&vCenter=true&repeat=false&width=1090&height=45&lines=EDUCATION+IN+CRISIS)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=40&duration=1&pause=1000&color=645248&vCenter=true&repeat=false&width=1090&height=45&lines=Solar-Powered+Schools+in+Conflicted+Zones)](https://git.io/typing-svg)
 
+>“Some children fall to their knees - their legs do not move because they are afraid. There
+are no tears, no crying or screaming, the child just freezes. One child stood there holding
+a toy and did not let go of it all day.”
+– a kindergarten director describing children’s reactions to shelling.
+
 
 ## M0 : Project Overview
 
@@ -44,6 +49,7 @@ This project shows how **data-informed architecture** can deliver **resilient, s
 - And demonstrate the role of **interdisciplinary problem-solving** at the nexus of **data science, energy, and design** 
 </details>
 </details>
+
 
 
 
