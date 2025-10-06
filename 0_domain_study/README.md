@@ -19,3 +19,15 @@ _The figures are “unprecedented,” Helena Murseli, who leads the UN Children�
 Despite urgent needs, education receives only 3% of humanitarian aid, even as funding is expected to drop further. Without investment, millions risk becoming a lost generation—deprived of the skills to rebuild their societies.
 
 > In the short and long-term, the consequences of missing out on education during violent crises are severe.
+
+### [**Education in emergencies**](https://www.unicef.org/education/emergencies)
+
+> Education is a lifeline for children in crises.
+> 
+Children in conflict zones face ongoing attacks and loss of education as wars persist, threatening the future of entire generations. Without schooling, they are vulnerable to exploitation and unable to rebuild their countries, deepening the crisis.  
+
+The **solution** lies in protecting education itself. Schools must remain safe spaces that shield children from violence and offer hope for stability and peace.  
+
+The **Safe Schools Declaration**, launched in **2015**, is a global political commitment endorsed by **121 States** to protect students, teachers, and education facilities during armed conflict and prevent their military use. It promotes restoring safe access to education and fostering respect and inclusion across communities.  
+
+**UNICEF** plays a key role by helping implement the Declaration—developing school safety plans, rehabilitating schools, training teachers, and providing psychosocial and learning support. It also partners with governments and organizations to ensure learning continues through innovative methods like radio education programs in crisis-affected regions.
