@@ -13,35 +13,35 @@ The convergence of conflict and infrastructure collapse has created a global cri
 
 This project offers an interdisciplinary solution: it integrates global education and electrification datasets to power the design of modular, solar-powered learning hubs. These hubs are fundamentally designed as transitional infrastructure, ensuring the stabilization of community life and education during the crucial post-conflict recovery phase.
 
-### The Problem
+### Education in Crisis
+
+Conflict has created an unprecedented global education emergency:
+
+- **Scale:** Over **85 million school-age children** are out of school globally due to conflict.  
+- **Infrastructure Failure:** Education infrastructure is under systematic attack, with a **44% surge** in attacks on facilities and **up to 95% destruction** in active war zones (e.g., Gaza).  
+- **Obstacle:** Traditional power sources (grid/diesel) are **easily targeted or logistically impossible to supply**, while education remains critically underfunded—receiving only **3% of total humanitarian aid**.  
+
+
+<details>
+  <summary><b>The Problem</b></summary>
 
 - Schools in war-torn areas are often converted into emergency shelters, disrupting education [GCPEA, Education under Attack 2024](https://protectingeducation.org/publication/education-under-attack-2024/)
 - Overcrowding worsens as classrooms are repurposed for survival needs, particularly documented in high-density crisis zones [UNRWA, Situation Reports (2023-2024)](https://www.unrwa.org/test-table)
 - A lack of reliable electricity, symptomatic of collapsing infrastructure and low electrification rates, leaves schools unsafe and unusable after sunset.[ World Bank Group, Accelerating Sub-Saharan Africa Energy Access, 2022](https://www.worldbank.org/en/news/press-release/2022/11/09/world-bank-group-announces-major-initiative-to-electrify-sub-saharan-africa-with-distributed-renewable-energy)
 
-
-<details>
-  <summary><b>The Idea</b></summary>
-
-By combining **data science and architectural design**, this project explores how **solar-powered, dual-use schools** can:  
-- Function as safe, lit shelters at night [Sphere Handbook, 2018](https://www.ndsu.edu/sites/default/files/fileadmin/emgt/The_Sphere_Project_Handbook_2011.pdf)  
-- Operate as classrooms during the day [INEE, 2024](https://inee.org/minimum-standards)  
-- Harness solar energy for lighting, charging, and essential power needs [IFC, Renewable Energy in Gaza](https://unfccc.int/climate-action/un-global-climate-action-awards/financing-for-climate-friendly-investment/self-reliance-solar)  
-
-Through **spatial design simulations** and **geospatial/electrification data analysis**, the project develops prototypes adaptable to different conflict contexts.  
-
-</details>  
+</details>
 
 <details>
   <summary><b>Why It Matters</b></summary>
 
-Education is a fundamental right that should not collapse under crisis [UNICEF, School not in session for millions of children around the world.](https://www.unicef.org/stories/school-session-millions-children-around-world)
-This project shows how **data-informed architecture** can deliver **resilient, solar-powered spaces** that:  
-- Safeguard children and communities,  
-- Sustain learning during disruption,  
-- And demonstrate the role of **interdisciplinary problem-solving** at the nexus of **data science, energy, and design** 
+Solving this problem is vital for **protection**, **immediate relief**, and **long-term recovery**:
+
+- **Protecting a Generation:** Education provides a safe space, shielding millions of children from exploitation and helping prevent the emergence of a “lost generation.”  
+- **Resilient & Cost-Effective Power:** Solar PV is the only **decentralized, attack-resilient**, and **cost-effective** energy source—freeing up critical humanitarian funds for learning resources.  
+- **Critical Dual-Use Infrastructure:** A **Solar + Battery Energy Storage (BES)** system ensures schools operate **24/7** as classrooms by day and **community or medical shelters by night**, laying a foundational path for **peace and reconstruction**.  
+
 </details>
-</details>
+
 
 
 
